@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>List of highest-grossing films</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="shimmering-background">
+
+    <div id="section1">
+        <h1 class="textheader">What are the highest-grossing films of all time?</h1><br>
+        <h4 class="justtext">We gathered some information and statistics for you</h4>
+    </div>
+
+    <div id="top10" class="moving-background">
+        <h1>Top 10 of the highest-grossing films</h1><br>
+
+        <div class="image-container">
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg" class="flying-image" alt="Avatar Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" class="flying-image" alt="Avengers: Endgame Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg" class="flying-image" alt="Avatar: The Way of Water Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png" class="flying-image" alt="Titanic Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg" class="flying-image" alt="Star Wars: The Force Awakens Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" class="flying-image" alt="Avatar Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" class="flying-image" alt="Avengers: Endgame Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Inside_Out_2_poster.jpg" class="flying-image" alt="Avatar: The Way of Water Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg" class="flying-image" alt="Titanic Poster">
+                <div class="overlay"></div>
+            </div>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg" class="flying-image" alt="Star Wars: The Force Awakens Poster">
+                <div class="overlay"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="statistics" class="stats-container">
+        <h1>Some statistics</h1><br>
+        <canvas id="countryChart" width="1100" height="550"></canvas>
+        <canvas id="directorChart" width="1100" height="550"></canvas>
+        <canvas id="budgetBoxOfficeChart" width="400" height="200"></canvas>
+        <canvas id="revenueChart" width="1100" height="550"></canvas>
+        <canvas id="dirProfitChart" width="1100" height="550"></canvas>
+    </div>
+    
+    <div class="table-container">
+        <h1 id="filsort">Filters and Sorting</h1><br>
+        <input type="text" id="titleFilter" placeholder="Filter by title/director/country..." oninput="filterMovies()" />
+        <div class="dropdown-container">
+            <label for="sortOptions">Sort by:</label>
+            <select id="sortOptions" onchange="sortMovies()">
+                <option value="year-asc">Release Year (Ascending)</option>
+                <option value="year-desc">Release Year (Descending)</option>
+                <option value="budget-asc">Budget (Ascending)</option>
+                <option value="budget-desc">Budget (Descending)</option>
+                <option value="box-office-asc">Box Office (Ascending)</option>
+                <option value="box-office-desc">Box Office (Descending)</option>
+                <option value="title-asc">Title (Alphabetically)</option>
+                <option value="director-asc">Director (Alphabetically)</option>
+                <option value="country-asc">Country (Alphabetically)</option>
+            </select>
+        </div>
+        
+        
+        <table id="movieTable">
+            <thead>
+                <tr>
+                    <th style="width: 10%;">Release Year</th>
+                    <th style="width: 30%;">Title</th>
+                    <th style="width: 30%;">Director</th>
+                    <th style="width: 15%;">Budget</th>
+                    <th style="width: 15%;">Box Office</th>
+                    <th style="width: 15%;">Country</th>
+                </tr>
+            </thead>
+            <tbody id="topall">
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
+

@@ -1,0 +1,1352 @@
+[
+    {
+        "id": 1,
+        "title": "The Birth of a Nation",
+        "release_year": 1915,
+        "director": "D. W. Griffith",
+        "box_office": 50000000.0,
+        "budget": 110000.0,
+        "country": "United States"
+    },
+    {
+        "id": 2,
+        "title": "Intolerance",
+        "release_year": 1916,
+        "director": "D. W. Griffith",
+        "box_office": 1750000.0,
+        "budget": 385907.0,
+        "country": "United States"
+    },
+    {
+        "id": 3,
+        "title": "Cleopatra",
+        "release_year": 1917,
+        "director": "J. Gordon Edwards",
+        "box_office": 500000.0,
+        "budget": 300000.0,
+        "country": "United States"
+    },
+    {
+        "id": 4,
+        "title": "Mickey",
+        "release_year": 1918,
+        "director": "F. Richard Jones\nJames Young",
+        "box_office": 8000000.0,
+        "budget": 250000.0,
+        "country": "United States"
+    },
+    {
+        "id": 5,
+        "title": "The Miracle Man",
+        "release_year": 1919,
+        "director": "George Loane Tucker",
+        "box_office": 3000000.0,
+        "budget": 120000.0,
+        "country": "United States"
+    },
+    {
+        "id": 6,
+        "title": "Way Down East",
+        "release_year": 1920,
+        "director": "D. W. Griffith",
+        "box_office": 5000000.0,
+        "budget": 800000.0,
+        "country": "United States"
+    },
+    {
+        "id": 7,
+        "title": "The Four Horsemen of the Apocalypse",
+        "release_year": 1921,
+        "director": "Rex Ingram",
+        "box_office": 5000000.0,
+        "budget": 600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 8,
+        "title": "Douglas Fairbanks in Robin Hood",
+        "release_year": 1922,
+        "director": "Allan Dwan",
+        "box_office": 2500000.0,
+        "budget": 930042.78,
+        "country": "United States"
+    },
+    {
+        "id": 9,
+        "title": "The Covered Wagon",
+        "release_year": 1923,
+        "director": "James Cruze",
+        "box_office": 5000000.0,
+        "budget": 800000.0,
+        "country": "United States"
+    },
+    {
+        "id": 10,
+        "title": "The Sea Hawk",
+        "release_year": 1924,
+        "director": "Frank Lloyd",
+        "box_office": 3000000.0,
+        "budget": 700000.0,
+        "country": "United States"
+    },
+    {
+        "id": 11,
+        "title": "The Big Parade",
+        "release_year": 1925,
+        "director": "King Vidor",
+        "box_office": 18000000.0,
+        "budget": 382000.0,
+        "country": "United States"
+    },
+    {
+        "id": 12,
+        "title": "Ben-Hur",
+        "release_year": 1925,
+        "director": "Fred Niblo\n\nCharles Brabin",
+        "box_office": 10738000.0,
+        "budget": 3967000.0,
+        "country": "United States"
+    },
+    {
+        "id": 13,
+        "title": "For Heaven's Sake",
+        "release_year": 1926,
+        "director": "Sam Taylor",
+        "box_office": 2600000.0,
+        "budget": 150000.0,
+        "country": "United States"
+    },
+    {
+        "id": 14,
+        "title": "Wings",
+        "release_year": 1927,
+        "director": "William A. Wellman",
+        "box_office": 3600000.0,
+        "budget": 2000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 15,
+        "title": "The Singing Fool",
+        "release_year": 1928,
+        "director": "Lloyd Bacon",
+        "box_office": 5900000.0,
+        "budget": 388000.0,
+        "country": "United States"
+    },
+    {
+        "id": 16,
+        "title": "The Broadway Melody",
+        "release_year": 1929,
+        "director": "Harry Beaumont",
+        "box_office": 4400000.0,
+        "budget": 379000.0,
+        "country": "United States"
+    },
+    {
+        "id": 17,
+        "title": "Sunny Side Up",
+        "release_year": 1929,
+        "director": "David Butler",
+        "box_office": 3500000.0,
+        "budget": 600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 18,
+        "title": "All Quiet on the Western Front",
+        "release_year": 1930,
+        "director": "Lewis Milestone",
+        "box_office": 3000000.0,
+        "budget": 1250000.0,
+        "country": "United States"
+    },
+    {
+        "id": 19,
+        "title": "Frankenstein",
+        "release_year": 1931,
+        "director": "James Whale",
+        "box_office": 12000000.0,
+        "budget": 250000.0,
+        "country": "United States"
+    },
+    {
+        "id": 20,
+        "title": "City Lights",
+        "release_year": 1931,
+        "director": "Charlie Chaplin",
+        "box_office": 5000000.0,
+        "budget": 1607351.0,
+        "country": "United States"
+    },
+    {
+        "id": 21,
+        "title": "The Sign of the Cross",
+        "release_year": 1932,
+        "director": "Cecil B. DeMille",
+        "box_office": 2738993.0,
+        "budget": 694065.0,
+        "country": "United States"
+    },
+    {
+        "id": 22,
+        "title": "King Kong",
+        "release_year": 1933,
+        "director": "Merian C. Cooper\nErnest B. Schoedsack",
+        "box_office": 5347000.0,
+        "budget": 672255.75,
+        "country": "United States"
+    },
+    {
+        "id": 23,
+        "title": "I'm No Angel",
+        "release_year": 1933,
+        "director": "Wesley Ruggles",
+        "box_office": 3250000.0,
+        "budget": 200000.0,
+        "country": "United States"
+    },
+    {
+        "id": 24,
+        "title": "Cavalcade",
+        "release_year": 1933,
+        "director": "Frank Lloyd",
+        "box_office": 3000000.0,
+        "budget": 1116000.0,
+        "country": "United States"
+    },
+    {
+        "id": 25,
+        "title": "She Done Him Wrong",
+        "release_year": 1933,
+        "director": "Lowell Sherman",
+        "box_office": 3000000.0,
+        "budget": 274076.0,
+        "country": "United States"
+    },
+    {
+        "id": 26,
+        "title": "The Merry Widow",
+        "release_year": 1934,
+        "director": "Ernst Lubitsch",
+        "box_office": 2608000.0,
+        "budget": 1605000.0,
+        "country": "United States"
+    },
+    {
+        "id": 27,
+        "title": "It Happened One Night",
+        "release_year": 1934,
+        "director": "Frank Capra",
+        "box_office": 2500000.0,
+        "budget": 325000.0,
+        "country": "United States"
+    },
+    {
+        "id": 28,
+        "title": "Mutiny on the Bounty",
+        "release_year": 1935,
+        "director": "Frank Lloyd",
+        "box_office": 4460000.0,
+        "budget": 1905000.0,
+        "country": "United States"
+    },
+    {
+        "id": 29,
+        "title": "San Francisco",
+        "release_year": 1936,
+        "director": "W. S. Van Dyke",
+        "box_office": 6044000.0,
+        "budget": 1300000.0,
+        "country": "United States"
+    },
+    {
+        "id": 30,
+        "title": "Snow White and the Seven Dwarfs",
+        "release_year": 1937,
+        "director": "David Hand\n\nPerce Pearce\nWilliam Cottrell\nLarry Morey\nWilfred Jackson\nBen Sharpsteen",
+        "box_office": 418000000.0,
+        "budget": 1488423.0,
+        "country": "United States"
+    },
+    {
+        "id": 31,
+        "title": "You Can't Take It with You",
+        "release_year": 1938,
+        "director": "Frank Capra",
+        "box_office": 5000000.0,
+        "budget": 1200000.0,
+        "country": "United States"
+    },
+    {
+        "id": 32,
+        "title": "Gone with the Wind",
+        "release_year": 1939,
+        "director": "Victor Fleming",
+        "box_office": 390525192.0,
+        "budget": 3900000.0,
+        "country": "United States"
+    },
+    {
+        "id": 33,
+        "title": "Pinocchio",
+        "release_year": 1940,
+        "director": "Ben Sharpsteen\nHamilton Luske\n\n\nBill Roberts\nNorman Ferguson\nJack Kinney\nWilfred Jackson\nT. Hee",
+        "box_office": 87000862.0,
+        "budget": 2600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 34,
+        "title": "Boom Town",
+        "release_year": 1940,
+        "director": "Jack Conway",
+        "box_office": 4600000.0,
+        "budget": 2100000.0,
+        "country": "United States"
+    },
+    {
+        "id": 35,
+        "title": "Sergeant York",
+        "release_year": 1941,
+        "director": "Howard Hawks",
+        "box_office": 7800000.0,
+        "budget": 1600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 36,
+        "title": "Bambi",
+        "release_year": 1942,
+        "director": "David D. Hand\n\nJames Algar\nBill Roberts\nNorman Wright\nSam Armstrong\nPaul Satterfield\nGraham Heid",
+        "box_office": 267997843.0,
+        "budget": 1700000.0,
+        "country": "United States"
+    },
+    {
+        "id": 37,
+        "title": "Mrs. Miniver",
+        "release_year": 1942,
+        "director": "William Wyler",
+        "box_office": 8878000.0,
+        "budget": 1344000.0,
+        "country": "United States"
+    },
+    {
+        "id": 38,
+        "title": "For Whom the Bell Tolls",
+        "release_year": 1943,
+        "director": "Sam Wood",
+        "box_office": 11000000.0,
+        "budget": 2681298.0,
+        "country": "United States"
+    },
+    {
+        "id": 39,
+        "title": "This Is the Army",
+        "release_year": 1943,
+        "director": "Michael Curtiz\nHugh Cummings\nEdward A. Blatt",
+        "box_office": 9555586.44,
+        "budget": 1400000.0,
+        "country": "United States"
+    },
+    {
+        "id": 40,
+        "title": "Going My Way",
+        "release_year": 1944,
+        "director": "Leo McCarey",
+        "box_office": 6500000.0,
+        "budget": 1000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 41,
+        "title": "Mom and Dad",
+        "release_year": 1945,
+        "director": "William Beaudine",
+        "box_office": 80000000.0,
+        "budget": 65000.0,
+        "country": "United States"
+    },
+    {
+        "id": 42,
+        "title": "The Bells of St. Mary's",
+        "release_year": 1945,
+        "director": "Leo McCarey",
+        "box_office": 11200000.0,
+        "budget": 1600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 43,
+        "title": "Song of the South",
+        "release_year": 1946,
+        "director": "Harve Foster\n\nWilfred Jackson",
+        "box_office": 65000000.0,
+        "budget": 2125000.0,
+        "country": "United States"
+    },
+    {
+        "id": 44,
+        "title": "The Best Years of Our Lives",
+        "release_year": 1946,
+        "director": "William Wyler",
+        "box_office": 14750000.0,
+        "budget": 2100000.0,
+        "country": "United States"
+    },
+    {
+        "id": 45,
+        "title": "Duel in the Sun",
+        "release_year": 1946,
+        "director": "King Vidor",
+        "box_office": 10000000.0,
+        "budget": 5255000.0,
+        "country": "United States"
+    },
+    {
+        "id": 46,
+        "title": "Forever Amber",
+        "release_year": 1947,
+        "director": "Otto Preminger\nJohn M. Stahl",
+        "box_office": 8000000.0,
+        "budget": 6375000.0,
+        "country": "United States"
+    },
+    {
+        "id": 47,
+        "title": "Unconquered",
+        "release_year": 1947,
+        "director": "Cecil B. DeMille",
+        "box_office": 7500000.0,
+        "budget": 4200000.0,
+        "country": "United States"
+    },
+    {
+        "id": 48,
+        "title": "Easter Parade",
+        "release_year": 1948,
+        "director": "Charles Walters",
+        "box_office": 5918134.0,
+        "budget": 2500000.0,
+        "country": "United States"
+    },
+    {
+        "id": 49,
+        "title": "The Red Shoes",
+        "release_year": 1948,
+        "director": "Michael Powell\nEmeric Pressburger",
+        "box_office": 5000000.0,
+        "budget": 505581.0,
+        "country": "United Kingdom"
+    },
+    {
+        "id": 50,
+        "title": "The Snake Pit",
+        "release_year": 1948,
+        "director": "Anatole Litvak",
+        "box_office": 4100000.0,
+        "budget": 3800000.0,
+        "country": "United States"
+    },
+    {
+        "id": 51,
+        "title": "Samson and Delilah",
+        "release_year": 1949,
+        "director": "Cecil B. DeMille",
+        "box_office": 14209250.0,
+        "budget": 3097563.0,
+        "country": "United States"
+    },
+    {
+        "id": 52,
+        "title": "Cinderella",
+        "release_year": 1950,
+        "director": "Wilfred Jackson\nHamilton Luske\nClyde Geronimi",
+        "box_office": 263591415.0,
+        "budget": 2200000.0,
+        "country": "United States"
+    },
+    {
+        "id": 53,
+        "title": "King Solomon's Mines",
+        "release_year": 1950,
+        "director": "Compton Bennett\nAndrew Marton",
+        "box_office": 10050000.0,
+        "budget": 2258000.0,
+        "country": "United States"
+    },
+    {
+        "id": 54,
+        "title": "Quo Vadis",
+        "release_year": 1951,
+        "director": "Mervyn LeRoy",
+        "box_office": 21037000.0,
+        "budget": 7623000.0,
+        "country": "United States"
+    },
+    {
+        "id": 55,
+        "title": "This Is Cinerama",
+        "release_year": 1952,
+        "director": "Mike Todd\nMichael Todd, Jr.\nWalter A. Thompson\nFred Rickey",
+        "box_office": 50000000.0,
+        "budget": 1000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 56,
+        "title": "The Greatest Show on Earth",
+        "release_year": 1952,
+        "director": "Cecil B. DeMille",
+        "box_office": 18350000.0,
+        "budget": 3873946.0,
+        "country": "United States"
+    },
+    {
+        "id": 57,
+        "title": "Peter Pan",
+        "release_year": 1953,
+        "director": "Hamilton Luske\nClyde Geronimi\nWilfred Jackson",
+        "box_office": 145000000.0,
+        "budget": 3000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 58,
+        "title": "The Robe",
+        "release_year": 1953,
+        "director": "Henry Koster",
+        "box_office": 25000000.0,
+        "budget": 4100000.0,
+        "country": "United States"
+    },
+    {
+        "id": 59,
+        "title": "Rear Window",
+        "release_year": 1954,
+        "director": "Alfred Hitchcock",
+        "box_office": 24500000.0,
+        "budget": 1000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 60,
+        "title": "White Christmas",
+        "release_year": 1954,
+        "director": "Michael Curtiz",
+        "box_office": 26000050.0,
+        "budget": 3800000.0,
+        "country": "United States"
+    },
+    {
+        "id": 61,
+        "title": "20,000 Leagues Under the Sea",
+        "release_year": 1954,
+        "director": "Richard Fleischer",
+        "box_office": 25000134.0,
+        "budget": 4500000.0,
+        "country": "United States"
+    },
+    {
+        "id": 62,
+        "title": "Lady and the Tramp",
+        "release_year": 1955,
+        "director": "Hamilton Luske\nClyde Geronimi\nWilfred Jackson",
+        "box_office": 187000000.0,
+        "budget": 4000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 63,
+        "title": "Cinerama Holiday",
+        "release_year": 1955,
+        "director": "Robert L. Bendick\nPhilippe De Lacy",
+        "box_office": 21000000.0,
+        "budget": 2000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 64,
+        "title": "Mister Roberts",
+        "release_year": 1955,
+        "director": "John Ford\nMervyn LeRoy\nJoshua Logan",
+        "box_office": 9900000.0,
+        "budget": 2400000.0,
+        "country": "United States"
+    },
+    {
+        "id": 65,
+        "title": "The Ten Commandments",
+        "release_year": 1956,
+        "director": "Cecil B. DeMille",
+        "box_office": 90066230.0,
+        "budget": 13270000.0,
+        "country": "United States"
+    },
+    {
+        "id": 66,
+        "title": "The Bridge on the River Kwai",
+        "release_year": 1957,
+        "director": "David Lean",
+        "box_office": 30600000.0,
+        "budget": 2840000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 67,
+        "title": "South Pacific",
+        "release_year": 1958,
+        "director": "Joshua Logan",
+        "box_office": 30000000.0,
+        "budget": 5610000.0,
+        "country": "United States"
+    },
+    {
+        "id": 68,
+        "title": "Ben-Hur",
+        "release_year": 1959,
+        "director": "William Wyler",
+        "box_office": 90000000.0,
+        "budget": 15900000.0,
+        "country": "United States"
+    },
+    {
+        "id": 69,
+        "title": "Swiss Family Robinson",
+        "release_year": 1960,
+        "director": "Ken Annakin",
+        "box_office": 30000000.0,
+        "budget": 4000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 70,
+        "title": "Spartacus",
+        "release_year": 1960,
+        "director": "Stanley Kubrick",
+        "box_office": 60000000.0,
+        "budget": 10284014.0,
+        "country": "United States"
+    },
+    {
+        "id": 71,
+        "title": "Psycho",
+        "release_year": 1960,
+        "director": "Alfred Hitchcock",
+        "box_office": 50000000.0,
+        "budget": 800000.0,
+        "country": "United States"
+    },
+    {
+        "id": 72,
+        "title": "One Hundred and One Dalmatians",
+        "release_year": 1961,
+        "director": "Wolfgang Reitherman\nHamilton Luske\nClyde Geronimi",
+        "box_office": 303000000.0,
+        "budget": 3600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 73,
+        "title": "West Side Story",
+        "release_year": 1961,
+        "director": "Robert Wise\nJerome Robbins",
+        "box_office": 105000000.0,
+        "budget": 7000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 74,
+        "title": "Lawrence of Arabia",
+        "release_year": 1962,
+        "director": "David Lean",
+        "box_office": 77324852.0,
+        "budget": 13800000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 75,
+        "title": "How the West Was Won",
+        "release_year": 1962,
+        "director": "Henry Hathaway\nJohn Ford\nGeorge Marshall",
+        "box_office": 35000000.0,
+        "budget": 14483000.0,
+        "country": "United States"
+    },
+    {
+        "id": 76,
+        "title": "The Longest Day",
+        "release_year": 1962,
+        "director": "Ken Annakin\n\nAndrew Marton\n\nBernhard Wicki",
+        "box_office": 33200000.0,
+        "budget": 8600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 77,
+        "title": "Cleopatra",
+        "release_year": 1963,
+        "director": "Joseph L. Mankiewicz",
+        "box_office": 40300000.0,
+        "budget": 31115000.0,
+        "country": "United States"
+    },
+    {
+        "id": 78,
+        "title": "From Russia with Love",
+        "release_year": 1963,
+        "director": "Terence Young",
+        "box_office": 78900000.0,
+        "budget": 2000000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 79,
+        "title": "My Fair Lady",
+        "release_year": 1964,
+        "director": "George Cukor",
+        "box_office": 55000000.0,
+        "budget": 17000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 80,
+        "title": "Goldfinger",
+        "release_year": 1964,
+        "director": "Guy Hamilton",
+        "box_office": 124900000.0,
+        "budget": 3000000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 81,
+        "title": "Mary Poppins",
+        "release_year": 1964,
+        "director": "Robert Stevenson",
+        "box_office": 44000000.0,
+        "budget": 5200000.0,
+        "country": "United States"
+    },
+    {
+        "id": 82,
+        "title": "The Sound of Music",
+        "release_year": 1965,
+        "director": "Robert Wise",
+        "box_office": 286214076.0,
+        "budget": 8000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 83,
+        "title": "The Bible: In the Beginning",
+        "release_year": 1966,
+        "director": "John Huston",
+        "box_office": 25325000.0,
+        "budget": 18000000.0,
+        "country": "Italy\nUnited States"
+    },
+    {
+        "id": 84,
+        "title": "Hawaii",
+        "release_year": 1966,
+        "director": "George Roy Hill",
+        "box_office": 34562222.0,
+        "budget": 15000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 85,
+        "title": "Who's Afraid of Virginia Woolf?",
+        "release_year": 1966,
+        "director": "Mike Nichols",
+        "box_office": 33736689.0,
+        "budget": 7613000.0,
+        "country": "United States"
+    },
+    {
+        "id": 86,
+        "title": "The Jungle Book",
+        "release_year": 1967,
+        "director": "Wolfgang Reitherman",
+        "box_office": 378000000.0,
+        "budget": 3900000.0,
+        "country": "United States"
+    },
+    {
+        "id": 87,
+        "title": "The Graduate",
+        "release_year": 1967,
+        "director": "Mike Nichols",
+        "box_office": 85000000.0,
+        "budget": 3100000.0,
+        "country": "United States"
+    },
+    {
+        "id": 88,
+        "title": "2001: A Space Odyssey",
+        "release_year": 1968,
+        "director": "Stanley Kubrick",
+        "box_office": 141000000.0,
+        "budget": 10300000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 89,
+        "title": "Funny Girl",
+        "release_year": 1968,
+        "director": "William Wyler",
+        "box_office": 80000000.0,
+        "budget": 8800000.0,
+        "country": "United States"
+    },
+    {
+        "id": 90,
+        "title": "Butch Cassidy and the Sundance Kid",
+        "release_year": 1969,
+        "director": "George Roy Hill",
+        "box_office": 152308525.0,
+        "budget": 6600000.0,
+        "country": "United States"
+    },
+    {
+        "id": 91,
+        "title": "Love Story",
+        "release_year": 1970,
+        "director": "Arthur Hiller",
+        "box_office": 173400000.0,
+        "budget": 2260000.0,
+        "country": "United States"
+    },
+    {
+        "id": 92,
+        "title": "The French Connection",
+        "release_year": 1971,
+        "director": "William Friedkin",
+        "box_office": 75000000.0,
+        "budget": 3300000.0,
+        "country": "United States"
+    },
+    {
+        "id": 93,
+        "title": "Fiddler on the Roof",
+        "release_year": 1971,
+        "director": "Norman Jewison",
+        "box_office": 49400000.0,
+        "budget": 9000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 94,
+        "title": "Diamonds Are Forever",
+        "release_year": 1971,
+        "director": "Guy Hamilton",
+        "box_office": 116000000.0,
+        "budget": 7200000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 95,
+        "title": "The Godfather",
+        "release_year": 1972,
+        "director": "Francis Ford Coppola",
+        "box_office": 246120974.0,
+        "budget": 6000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 96,
+        "title": "The Exorcist",
+        "release_year": 1973,
+        "director": "William Friedkin",
+        "box_office": 430872776.0,
+        "budget": 10000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 97,
+        "title": "The Sting",
+        "release_year": 1973,
+        "director": "George Roy Hill",
+        "box_office": 115000000.0,
+        "budget": 5500000.0,
+        "country": "United States"
+    },
+    {
+        "id": 98,
+        "title": "The Towering Inferno",
+        "release_year": 1974,
+        "director": "John Guillermin\nIrwin Allen",
+        "box_office": 203336412.0,
+        "budget": 14300000.0,
+        "country": "United States"
+    },
+    {
+        "id": 99,
+        "title": "Jaws",
+        "release_year": 1975,
+        "director": "Steven Spielberg",
+        "box_office": 477220580.0,
+        "budget": 9000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 100,
+        "title": "Rocky",
+        "release_year": 1976,
+        "director": "John G. Avildsen",
+        "box_office": 225000000.0,
+        "budget": 1075000.0,
+        "country": "United States"
+    },
+    {
+        "id": 101,
+        "title": "Star Wars",
+        "release_year": 1977,
+        "director": "George Lucas",
+        "box_office": 775398007.0,
+        "budget": 11293151.0,
+        "country": "United States"
+    },
+    {
+        "id": 102,
+        "title": "Grease",
+        "release_year": 1978,
+        "director": "Randal Kleiser",
+        "box_office": 396271103.0,
+        "budget": 6000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 103,
+        "title": "Moonraker",
+        "release_year": 1979,
+        "director": "Lewis Gilbert",
+        "box_office": 210308099.0,
+        "budget": 31000000.0,
+        "country": "United Kingdom\nUnited States\nFrance"
+    },
+    {
+        "id": 104,
+        "title": "Rocky II",
+        "release_year": 1979,
+        "director": "Sylvester Stallone",
+        "box_office": 200182160.0,
+        "budget": 7000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 105,
+        "title": "The Empire Strikes Back",
+        "release_year": 1980,
+        "director": "Irvin Kershner",
+        "box_office": 550016086.0,
+        "budget": 23000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 106,
+        "title": "Raiders of the Lost Ark",
+        "release_year": 1981,
+        "director": "Steven Spielberg",
+        "box_office": 389925971.0,
+        "budget": 18000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 107,
+        "title": "E.T. the Extra-Terrestrial",
+        "release_year": 1982,
+        "director": "Steven Spielberg",
+        "box_office": 797307407.0,
+        "budget": 10500000.0,
+        "country": "United States"
+    },
+    {
+        "id": 108,
+        "title": "Return of the Jedi",
+        "release_year": 1983,
+        "director": "Richard Marquand",
+        "box_office": 482466382.0,
+        "budget": 32500000.0,
+        "country": "United States"
+    },
+    {
+        "id": 109,
+        "title": "Ghostbusters",
+        "release_year": 1984,
+        "director": "Ivan Reitman",
+        "box_office": 370000000.0,
+        "budget": 25000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 110,
+        "title": "Back to the Future",
+        "release_year": 1985,
+        "director": "Robert Zemeckis",
+        "box_office": 389225789.0,
+        "budget": 19000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 111,
+        "title": "Top Gun",
+        "release_year": 1986,
+        "director": "Tony Scott",
+        "box_office": 357288178.0,
+        "budget": 14000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 112,
+        "title": "Fatal Attraction",
+        "release_year": 1987,
+        "director": "Adrian Lyne",
+        "box_office": 320145693.0,
+        "budget": 14000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 113,
+        "title": "Rain Man",
+        "release_year": 1988,
+        "director": "Barry Levinson",
+        "box_office": 354825435.0,
+        "budget": 30000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 114,
+        "title": "Indiana Jones and the Last Crusade",
+        "release_year": 1989,
+        "director": "Steven Spielberg",
+        "box_office": 474171806.0,
+        "budget": 36000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 115,
+        "title": "Ghost",
+        "release_year": 1990,
+        "director": "Jerry Zucker",
+        "box_office": 505870681.0,
+        "budget": 22000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 116,
+        "title": "Terminator 2: Judgment Day",
+        "release_year": 1991,
+        "director": "James Cameron",
+        "box_office": 523774456.0,
+        "budget": 94000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 117,
+        "title": "Aladdin",
+        "release_year": 1992,
+        "director": "John Musker\nRon Clements",
+        "box_office": 504050219.0,
+        "budget": 28000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 118,
+        "title": "Jurassic Park",
+        "release_year": 1993,
+        "director": "Steven Spielberg",
+        "box_office": 1037535230.0,
+        "budget": 63000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 119,
+        "title": "The Lion King",
+        "release_year": 1994,
+        "director": "Roger Allers\nRob Minkoff",
+        "box_office": 970707763.0,
+        "budget": 45000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 120,
+        "title": "Toy Story",
+        "release_year": 1995,
+        "director": "John Lasseter",
+        "box_office": 373554033.0,
+        "budget": 30000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 121,
+        "title": "Die Hard with a Vengeance",
+        "release_year": 1995,
+        "director": "John McTiernan",
+        "box_office": 366101666.0,
+        "budget": 70000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 122,
+        "title": "Independence Day",
+        "release_year": 1996,
+        "director": "Roland Emmerich",
+        "box_office": 817400891.0,
+        "budget": 75000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 123,
+        "title": "Titanic",
+        "release_year": 1997,
+        "director": "James Cameron",
+        "box_office": 2257844554.0,
+        "budget": 200000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 124,
+        "title": "Armageddon",
+        "release_year": 1998,
+        "director": "Michael Bay",
+        "box_office": 553709788.0,
+        "budget": 140000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 125,
+        "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "release_year": 1999,
+        "director": "George Lucas",
+        "box_office": 1046515409.0,
+        "budget": 115000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 126,
+        "title": "Mission: Impossible 2",
+        "release_year": 2000,
+        "director": "John Woo",
+        "box_office": 546388108.0,
+        "budget": 100000000.0,
+        "country": "United States\nGermany"
+    },
+    {
+        "id": 127,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "release_year": 2001,
+        "director": "Chris Columbus",
+        "box_office": 1009046830.0,
+        "budget": 125000000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 128,
+        "title": "The Lord of the Rings: The Two Towers",
+        "release_year": 2002,
+        "director": "Peter Jackson",
+        "box_office": 948945489.0,
+        "budget": 94000000.0,
+        "country": "New Zealand\nUnited States"
+    },
+    {
+        "id": 129,
+        "title": "The Lord of the Rings: The Return of the King",
+        "release_year": 2003,
+        "director": "Peter Jackson",
+        "box_office": 1147997407.0,
+        "budget": 94000000.0,
+        "country": "New Zealand\nGermany\nUnited States"
+    },
+    {
+        "id": 130,
+        "title": "Shrek 2",
+        "release_year": 2004,
+        "director": "Andrew Adamson\nKelly Asbury\nConrad Vernon",
+        "box_office": 932530034.0,
+        "budget": 150000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 131,
+        "title": "Harry Potter and the Goblet of Fire",
+        "release_year": 2005,
+        "director": "Mike Newell",
+        "box_office": 896346413.0,
+        "budget": 150000000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 132,
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "release_year": 2006,
+        "director": "Gore Verbinski",
+        "box_office": 1066179747.0,
+        "budget": 225000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 133,
+        "title": "Pirates of the Caribbean: At World's End",
+        "release_year": 2007,
+        "director": "Gore Verbinski",
+        "box_office": 960996492.0,
+        "budget": 300000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 134,
+        "title": "The Dark Knight",
+        "release_year": 2008,
+        "director": "Christopher Nolan",
+        "box_office": 1007336937.0,
+        "budget": 185000000.0,
+        "country": "United States\nUnited Kingdom"
+    },
+    {
+        "id": 135,
+        "title": "Avatar",
+        "release_year": 2009,
+        "director": "James Cameron",
+        "box_office": 2923706026.0,
+        "budget": 237000000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 136,
+        "title": "Toy Story 3",
+        "release_year": 2010,
+        "director": "Lee Unkrich",
+        "box_office": 1066970811.0,
+        "budget": 200000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 137,
+        "title": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "release_year": 2011,
+        "director": "David Yates",
+        "box_office": 1342139727.0,
+        "budget": 250000000.0,
+        "country": "United Kingdom\nUnited States"
+    },
+    {
+        "id": 138,
+        "title": "The Avengers",
+        "release_year": 2012,
+        "director": "Joss Whedon",
+        "box_office": 1518815515.0,
+        "budget": 220000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 139,
+        "title": "Frozen",
+        "release_year": 2013,
+        "director": "Chris Buck\nJennifer Lee",
+        "box_office": 1290000000.0,
+        "budget": 150000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 140,
+        "title": "Transformers: Age of Extinction",
+        "release_year": 2014,
+        "director": "Michael Bay",
+        "box_office": 1104039076.0,
+        "budget": 210000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 141,
+        "title": "Star Wars: The Force Awakens",
+        "release_year": 2015,
+        "director": "J. J. Abrams",
+        "box_office": 2068223624.0,
+        "budget": 245000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 142,
+        "title": "Captain America: Civil War",
+        "release_year": 2016,
+        "director": "Anthony Russo\nJoe Russo",
+        "box_office": 1153337496.0,
+        "budget": 250000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 143,
+        "title": "Star Wars: The Last Jedi",
+        "release_year": 2017,
+        "director": "Rian Johnson",
+        "box_office": 1332539889.0,
+        "budget": 200000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 144,
+        "title": "Avengers: Infinity War",
+        "release_year": 2018,
+        "director": "Anthony Russo\nJoe Russo",
+        "box_office": 2048359754.0,
+        "budget": 316000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 145,
+        "title": "Avengers: Endgame",
+        "release_year": 2019,
+        "director": "Anthony Russo\nJoe Russo",
+        "box_office": 2797501328.0,
+        "budget": 356000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 146,
+        "title": "Demon Slayer: Mugen Train",
+        "release_year": 2020,
+        "director": "Haruo Sotozaki",
+        "box_office": 507119058.0,
+        "budget": 15750000.0,
+        "country": "Japan"
+    },
+    {
+        "id": 147,
+        "title": "Spider-Man: No Way Home",
+        "release_year": 2021,
+        "director": "Jon Watts",
+        "box_office": 1922598800.0,
+        "budget": 200000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 148,
+        "title": "Avatar: The Way of Water",
+        "release_year": 2022,
+        "director": "James Cameron",
+        "box_office": 2320250281.0,
+        "budget": 350000000.0,
+        "country": "United States"
+    },
+    {
+        "id": 149,
+        "title": "Barbie",
+        "release_year": 2023,
+        "director": "Greta Gerwig",
+        "box_office": 1447038421.0,
+        "budget": 128000000.0,
+        "country": "United States\nUnited Kingdom"
+    },
+    {
+        "id": 150,
+        "title": "Inside Out 2",
+        "release_year": 2024,
+        "director": "Kelsey Mann",
+        "box_office": 1698863816.0,
+        "budget": 200000000.0,
+        "country": "United States"
+    }
+]
